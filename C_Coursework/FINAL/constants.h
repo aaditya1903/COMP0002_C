@@ -1,0 +1,10 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define GRID_SIZE_X 10
+#define GRID_SIZE_Y 10
+#define SQUARE_SIZE 50
+#define IMMOVABLE_BLOCK_COUNT 2
+#define MARKER_COUNT 2
+
+#endif // CONSTANTS_H
